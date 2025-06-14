@@ -1,6 +1,4 @@
 <!DOCTYPE html>
-
-<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -215,24 +213,26 @@
                     <h2>I'm Thilip</h2>
                     <h3>Front-end Web Developer</h3>
                     <p style="text-align: justify;">
-                        Crafting powerful digital experiences, I merge clean code with creative vision. From dynamic web
-                        apps to
-                        seamless user flows, I turn ideas into impactful solutions. Passionate about innovation, driven
-                        by detail —
-                        I build the future, one line at a time.
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque, quaerat rem consequuntur
+                        cupiditate nisi ut mollitia, deleniti facere vitae, eius distinctio quos fugiat! Eveniet aut
+                        voluptatum blanditiis pariatur rerum delectus autem sapiente libero voluptates dolorum, quis
+                        itaque tenetur nulla harum sunt voluptate doloremque perferendis qui assumenda ab id architecto
+                        ratione. Dolore beatae reprehenderit nemo commodi ea cum dicta minima rerum vitae aut neque,
+                        eligendi autem nam quam voluptatem, perferendis ipsa laudantium optio maiores. Quia facere vitae
+                        fugiat laboriosam omnis eum est. A dignissimos minima nulla quidem molestiae dolores ea ratione
+                        expedita. Dignissimos animi ut unde vel provident eos quidem quis.
                     </p>
                     <div class="mt-4 d-flex flex-column align-items-center">
                         <div class="d-flex gap-4 social-icons fs-4 mb-3">
-                            <a href="https://www.linkedin.com/in/your-linkedin-id" target="_blank"
+                            <a href="https://www.linkedin.com/in/yourlinkedinlink" target="_blank"
                                 class="text-primary"><i class="fab fa-linkedin"></i></a>
-                            <a href="https://github.com/your-github-id" target="_blank" class="text-dark"><i
+                            <a href="https://github.com/yourgitlink" target="_blank" class="text-dark"><i
                                     class="fab fa-github"></i></a>
-                            <a href="mailto:your-email@example.com" class="text-danger"><i
-                                    class="fa fa-envelope"></i></a>
-                            <a href="https://wa.me/919876543210" target="_blank" class="text-success"><i
+                            <a href="mailto:youremailid" class="text-danger"><i class="fa fa-envelope"></i></a>
+                            <a href="https://wa.me/9876543210" target="_blank" class="text-success"><i
                                     class="fab fa-whatsapp"></i></a>
                         </div>
-                        <a href="/files/Thilip_Resume.pdf" download
+                        <a href="#" download="CV"
                             class="btn btn-dark px-4 py-2 rounded-pill shadow-sm d-flex align-items-center gap-2">
                             <i class="fa fa-download fa-lg"></i> <span>Download Resume</span>
                         </a>
@@ -338,22 +338,25 @@
             <div class="row justify-content-center">
                 <div class="col-md-8">
                     <div class="p-4 rounded shadow bg-white">
-                        <form>
+                        <form id="contactForm">
                             <div class="mb-3">
-                                <label for="name" class="form-label fw-semibold"><i
-                                        class="fa fa-user me-2 text-primary"></i>Your Name</label>
+                                <label for="name" class="form-label fw-semibold">
+                                    <i class="fa fa-user me-2 text-primary"></i>Your Name
+                                </label>
                                 <input type="text" class="form-control" id="name" placeholder="Enter your name"
                                     required>
                             </div>
                             <div class="mb-3">
-                                <label for="email" class="form-label fw-semibold"><i
-                                        class="fa fa-envelope me-2 text-success"></i>Email Address</label>
+                                <label for="email" class="form-label fw-semibold">
+                                    <i class="fa fa-envelope me-2 text-success"></i>Email Address
+                                </label>
                                 <input type="email" class="form-control" id="email" placeholder="Enter your email"
                                     required>
                             </div>
                             <div class="mb-3">
-                                <label for="message" class="form-label fw-semibold"><i
-                                        class="fa fa-message me-2 text-danger"></i>Message</label>
+                                <label for="message" class="form-label fw-semibold">
+                                    <i class="fa fa-message me-2 text-danger"></i>Message
+                                </label>
                                 <textarea class="form-control" id="message" rows="5"
                                     placeholder="Type your message here..." required></textarea>
                             </div>
@@ -363,10 +366,26 @@
                                 </button>
                             </div>
                         </form>
+                        <div id="confirmationMessage" class="mt-3 text-success fw-bold text-center"
+                            style="display: none;">
+                            Your email has been sent!
+                        </div>
                     </div>
                 </div>
             </div>
         </section>
+
+        <script>
+            document.getElementById("contactForm").addEventListener("submit", function (e) {
+                e.preventDefault();
+                const confirmation = document.getElementById("confirmationMessage");
+                confirmation.style.display = "block";
+                this.reset();
+                setTimeout(() => {
+                    confirmation.style.display = "none";
+                }, 5000);
+            });
+        </script>
     </main>
 </body>
 
