@@ -1,0 +1,167 @@
+.demo-img {
+  animation-name: rotation-animation;
+  animation-duration: 5s;
+  animation-fill-mode: forwards;       
+  animation-iteration-count: infinite;        
+  animation-timing-function: ease-in-out;
+}
+
+@keyframes rotation-animation {
+  from{
+    transform: rotate(0deg);
+  }
+  to{
+    transform: rotate(360deg);
+  }
+}
+
+.img-container {
+  position: relative;
+  width: 300px;
+  height: 300px;
+  border-radius: 16px;
+  overflow: hidden;
+}
+
+.img-container img {
+  position: absolute;
+  object-fit: cover;
+  border: 2px solid #fff;
+  border-radius: 8px;
+}
+
+
+.img1 {
+  top: 0;
+  left: 0;
+  width: 60%;
+  height: 60%;
+}
+
+
+.img2 {
+  top: 0;
+  right: 0;
+  width: 40%;
+  height: 40%;
+}
+
+
+.img3 {
+  bottom: 0;
+  left: 0;
+  width: 40%;
+  height: 40%;
+}
+
+.img4 {
+  bottom: 0;
+  right: 0;
+  width: 60%;
+  height: 60%;
+}
+
+.custom-shadow {
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  border-radius: 12px;
+}
+
+.custom-shadow:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 12px 25px rgba(0, 0, 0, 0.2);
+}
+
+.team-card {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  border-radius: 15px;
+}
+
+.team-card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.2);
+}
+
+.social-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.65);
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.team-card:hover .social-overlay {
+  opacity: 1;
+}
+
+.team-card {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  border-radius: 15px;
+  height: 100%;
+  position: relative;
+}
+
+.fixed-img {
+  height: 300px;
+  object-fit: cover;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+}
+
+.team-card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.2);
+}
+
+.social-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.65);
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.team-card:hover .social-overlay {
+  opacity: 1;
+}
+
+.bg-food{
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(2, 2, 2, 0.624)),
+  url("https://www.foodandwine.com/thmb/TDK2MFuyi2mb4jH66Waf9i1XsNs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/seared-scallops-with-pomegranate-and-meyer-lemon-FT-RECIPE0321-7189303d38de41449c6b501c8663541c.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: fit-content;
+  color: white;
+}
+.nav-underline {
+  position: relative;
+  padding-bottom: 4px;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.nav-underline::after {
+  content: "";
+  position: absolute;
+  width: 0%;
+  height: 2px;
+  bottom: 0;
+  left: 0;
+  background-color: #ffc107;
+  transition: width 0.3s ease;
+}
+
+.nav-underline:hover::after {
+  width: 100%;
+}
+
+.nav-underline.active::after {
+  width: 100%;
+}
