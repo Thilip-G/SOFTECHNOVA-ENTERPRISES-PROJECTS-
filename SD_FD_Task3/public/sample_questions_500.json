@@ -1,0 +1,4885 @@
+[
+  {
+    "question": "What is 45 + 47?",
+    "options": [
+      "92",
+      "94",
+      "90",
+      "95"
+    ],
+    "answer": "92"
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "options": [
+      "Berlin",
+      "Canberra",
+      "New Delhi"
+    ],
+    "answer": "Canberra"
+  },
+  {
+    "question": "Which language is primarily used in Laravel?",
+    "options": [
+      "PHP",
+      "Ruby",
+      "JavaScript"
+    ],
+    "answer": "PHP"
+  },
+  {
+    "question": "What is 42 + 23?",
+    "options": [
+      "68",
+      "63",
+      "67",
+      "65"
+    ],
+    "answer": "65"
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "options": [
+      "Canberra",
+      "Berlin",
+      "Madrid",
+      "Ottawa"
+    ],
+    "answer": "Canberra"
+  },
+  {
+    "question": "Which language is primarily used in Django?",
+    "options": [
+      "Python",
+      "JavaScript",
+      "PHP"
+    ],
+    "answer": "Python"
+  },
+  {
+    "question": "What is 9 + 34?",
+    "options": [
+      "45",
+      "43",
+      "41",
+      "46"
+    ],
+    "answer": "43"
+  },
+  {
+    "question": "What is the capital of Spain?",
+    "options": [
+      "Ottawa",
+      "Canberra",
+      "Madrid",
+      "Paris"
+    ],
+    "answer": "Madrid"
+  },
+  {
+    "question": "Which language is primarily used in Spring?",
+    "options": [
+      "PHP",
+      "Dart",
+      "Java"
+    ],
+    "answer": "Java"
+  },
+  {
+    "question": "What is 4 + 45?",
+    "options": [
+      "51",
+      "52",
+      "47",
+      "49"
+    ],
+    "answer": "49"
+  },
+  {
+    "question": "What is 4 + 49?",
+    "options": [
+      "55",
+      "56",
+      "53",
+      "51"
+    ],
+    "answer": "53"
+  },
+  {
+    "question": "Which language is primarily used in Flutter?",
+    "options": [
+      "Ruby",
+      "Dart",
+      "PHP",
+      "Java"
+    ],
+    "answer": "Dart"
+  },
+  {
+    "question": "Which language is primarily used in Flutter?",
+    "options": [
+      "Python",
+      "JavaScript",
+      "Dart",
+      "Java"
+    ],
+    "answer": "Dart"
+  },
+  {
+    "question": "What is 16 + 6?",
+    "options": [
+      "22",
+      "25",
+      "20",
+      "24"
+    ],
+    "answer": "22"
+  },
+  {
+    "question": "Which language is primarily used in React?",
+    "options": [
+      "Python",
+      "PHP",
+      "JavaScript",
+      "Java"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "question": "Which language is primarily used in Rails?",
+    "options": [
+      "Python",
+      "Ruby",
+      "Java",
+      "JavaScript"
+    ],
+    "answer": "Ruby"
+  },
+  {
+    "question": "What is 46 + 41?",
+    "options": [
+      "89",
+      "90",
+      "85",
+      "87"
+    ],
+    "answer": "87"
+  },
+  {
+    "question": "What is 39 + 29?",
+    "options": [
+      "71",
+      "68",
+      "70",
+      "66"
+    ],
+    "answer": "68"
+  },
+  {
+    "question": "What is the capital of Canada?",
+    "options": [
+      "Tokyo",
+      "Madrid",
+      "Ottawa"
+    ],
+    "answer": "Ottawa"
+  },
+  {
+    "question": "What is the capital of Italy?",
+    "options": [
+      "Canberra",
+      "Rome",
+      "Ottawa",
+      "New Delhi"
+    ],
+    "answer": "Rome"
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "options": [
+      "Canberra",
+      "New Delhi",
+      "Tokyo",
+      "Rome"
+    ],
+    "answer": "Tokyo"
+  },
+  {
+    "question": "What is the capital of Italy?",
+    "options": [
+      "Canberra",
+      "Rome",
+      "Madrid",
+      "Beijing"
+    ],
+    "answer": "Rome"
+  },
+  {
+    "question": "What is 39 + 34?",
+    "options": [
+      "76",
+      "73",
+      "75",
+      "71"
+    ],
+    "answer": "73"
+  },
+  {
+    "question": "What is the capital of India?",
+    "options": [
+      "Canberra",
+      "Tokyo",
+      "Madrid",
+      "New Delhi"
+    ],
+    "answer": "New Delhi"
+  },
+  {
+    "question": "Which language is primarily used in Rails?",
+    "options": [
+      "JavaScript",
+      "Ruby",
+      "PHP"
+    ],
+    "answer": "Ruby"
+  },
+  {
+    "question": "Which language is primarily used in React?",
+    "options": [
+      "Java",
+      "JavaScript",
+      "Python"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "question": "Which language is primarily used in Flutter?",
+    "options": [
+      "Ruby",
+      "Python",
+      "Dart"
+    ],
+    "answer": "Dart"
+  },
+  {
+    "question": "What is the capital of Brazil?",
+    "options": [
+      "Bras\u00edlia",
+      "Rome",
+      "Ottawa"
+    ],
+    "answer": "Bras\u00edlia"
+  },
+  {
+    "question": "What is the capital of Canada?",
+    "options": [
+      "Ottawa",
+      "Tokyo",
+      "Rome",
+      "Bras\u00edlia"
+    ],
+    "answer": "Ottawa"
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "Beijing",
+      "Canberra",
+      "Paris",
+      "Madrid"
+    ],
+    "answer": "Paris"
+  },
+  {
+    "question": "What is the capital of India?",
+    "options": [
+      "Ottawa",
+      "Tokyo",
+      "New Delhi",
+      "Madrid"
+    ],
+    "answer": "New Delhi"
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "Rome",
+      "Paris",
+      "Madrid",
+      "Bras\u00edlia"
+    ],
+    "answer": "Paris"
+  },
+  {
+    "question": "What is 4 + 44?",
+    "options": [
+      "48",
+      "51",
+      "50",
+      "46"
+    ],
+    "answer": "48"
+  },
+  {
+    "question": "What is 2 + 5?",
+    "options": [
+      "10",
+      "5",
+      "9",
+      "7"
+    ],
+    "answer": "7"
+  },
+  {
+    "question": "What is the capital of Canada?",
+    "options": [
+      "Madrid",
+      "Bras\u00edlia",
+      "Ottawa",
+      "Canberra"
+    ],
+    "answer": "Ottawa"
+  },
+  {
+    "question": "Which language is primarily used in React?",
+    "options": [
+      "Java",
+      "Ruby",
+      "JavaScript"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "question": "What is the capital of Brazil?",
+    "options": [
+      "Rome",
+      "Bras\u00edlia",
+      "Ottawa",
+      "Beijing"
+    ],
+    "answer": "Bras\u00edlia"
+  },
+  {
+    "question": "Which language is primarily used in Flutter?",
+    "options": [
+      "Dart",
+      "Ruby",
+      "PHP",
+      "Java"
+    ],
+    "answer": "Dart"
+  },
+  {
+    "question": "Which language is primarily used in Spring?",
+    "options": [
+      "PHP",
+      "Java",
+      "Dart",
+      "Ruby"
+    ],
+    "answer": "Java"
+  },
+  {
+    "question": "Which language is primarily used in Laravel?",
+    "options": [
+      "PHP",
+      "Java",
+      "Dart"
+    ],
+    "answer": "PHP"
+  },
+  {
+    "question": "What is 35 + 42?",
+    "options": [
+      "77",
+      "80",
+      "79",
+      "75"
+    ],
+    "answer": "77"
+  },
+  {
+    "question": "What is 2 + 50?",
+    "options": [
+      "50",
+      "54",
+      "55",
+      "52"
+    ],
+    "answer": "52"
+  },
+  {
+    "question": "What is the capital of Italy?",
+    "options": [
+      "Rome",
+      "New Delhi",
+      "Paris",
+      "Berlin"
+    ],
+    "answer": "Rome"
+  },
+  {
+    "question": "What is the capital of Spain?",
+    "options": [
+      "Madrid",
+      "Canberra",
+      "Berlin",
+      "Ottawa"
+    ],
+    "answer": "Madrid"
+  },
+  {
+    "question": "What is 25 + 11?",
+    "options": [
+      "36",
+      "34",
+      "38",
+      "39"
+    ],
+    "answer": "36"
+  },
+  {
+    "question": "What is 21 + 9?",
+    "options": [
+      "33",
+      "28",
+      "30",
+      "32"
+    ],
+    "answer": "30"
+  },
+  {
+    "question": "What is 44 + 46?",
+    "options": [
+      "90",
+      "92",
+      "93",
+      "88"
+    ],
+    "answer": "90"
+  },
+  {
+    "question": "Which language is primarily used in Spring?",
+    "options": [
+      "JavaScript",
+      "PHP",
+      "Dart",
+      "Java"
+    ],
+    "answer": "Java"
+  },
+  {
+    "question": "What is the capital of Germany?",
+    "options": [
+      "Berlin",
+      "New Delhi",
+      "Bras\u00edlia",
+      "Tokyo"
+    ],
+    "answer": "Berlin"
+  },
+  {
+    "question": "Which language is primarily used in Spring?",
+    "options": [
+      "Dart",
+      "JavaScript",
+      "Java",
+      "PHP"
+    ],
+    "answer": "Java"
+  },
+  {
+    "question": "What is 22 + 35?",
+    "options": [
+      "60",
+      "59",
+      "57",
+      "55"
+    ],
+    "answer": "57"
+  },
+  {
+    "question": "What is the capital of China?",
+    "options": [
+      "Beijing",
+      "Canberra",
+      "Rome",
+      "Berlin"
+    ],
+    "answer": "Beijing"
+  },
+  {
+    "question": "Which language is primarily used in Rails?",
+    "options": [
+      "PHP",
+      "Ruby",
+      "Dart",
+      "JavaScript"
+    ],
+    "answer": "Ruby"
+  },
+  {
+    "question": "What is 30 + 49?",
+    "options": [
+      "82",
+      "81",
+      "77",
+      "79"
+    ],
+    "answer": "79"
+  },
+  {
+    "question": "What is 5 + 5?",
+    "options": [
+      "10",
+      "12",
+      "13",
+      "8"
+    ],
+    "answer": "10"
+  },
+  {
+    "question": "What is 43 + 9?",
+    "options": [
+      "50",
+      "52",
+      "55",
+      "54"
+    ],
+    "answer": "52"
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "options": [
+      "New Delhi",
+      "Canberra",
+      "Beijing"
+    ],
+    "answer": "Canberra"
+  },
+  {
+    "question": "What is 29 + 23?",
+    "options": [
+      "55",
+      "52",
+      "50",
+      "54"
+    ],
+    "answer": "52"
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "options": [
+      "New Delhi",
+      "Canberra",
+      "Bras\u00edlia"
+    ],
+    "answer": "Canberra"
+  },
+  {
+    "question": "Which language is primarily used in Flutter?",
+    "options": [
+      "Python",
+      "JavaScript",
+      "Dart",
+      "PHP"
+    ],
+    "answer": "Dart"
+  },
+  {
+    "question": "What is the capital of Brazil?",
+    "options": [
+      "Bras\u00edlia",
+      "Madrid",
+      "Tokyo"
+    ],
+    "answer": "Bras\u00edlia"
+  },
+  {
+    "question": "What is 22 + 39?",
+    "options": [
+      "59",
+      "64",
+      "61",
+      "63"
+    ],
+    "answer": "61"
+  },
+  {
+    "question": "What is 16 + 11?",
+    "options": [
+      "27",
+      "30",
+      "29",
+      "25"
+    ],
+    "answer": "27"
+  },
+  {
+    "question": "What is the capital of Italy?",
+    "options": [
+      "Paris",
+      "Ottawa",
+      "Rome",
+      "Bras\u00edlia"
+    ],
+    "answer": "Rome"
+  },
+  {
+    "question": "What is 32 + 35?",
+    "options": [
+      "65",
+      "70",
+      "69",
+      "67"
+    ],
+    "answer": "67"
+  },
+  {
+    "question": "Which language is primarily used in Flutter?",
+    "options": [
+      "Dart",
+      "Java",
+      "PHP"
+    ],
+    "answer": "Dart"
+  },
+  {
+    "question": "What is the capital of Spain?",
+    "options": [
+      "Paris",
+      "New Delhi",
+      "Madrid",
+      "Bras\u00edlia"
+    ],
+    "answer": "Madrid"
+  },
+  {
+    "question": "What is 10 + 9?",
+    "options": [
+      "17",
+      "19",
+      "21",
+      "22"
+    ],
+    "answer": "19"
+  },
+  {
+    "question": "Which language is primarily used in Flutter?",
+    "options": [
+      "Java",
+      "Ruby",
+      "PHP",
+      "Dart"
+    ],
+    "answer": "Dart"
+  },
+  {
+    "question": "What is 1 + 13?",
+    "options": [
+      "16",
+      "17",
+      "12",
+      "14"
+    ],
+    "answer": "14"
+  },
+  {
+    "question": "What is the capital of Canada?",
+    "options": [
+      "Canberra",
+      "New Delhi",
+      "Ottawa",
+      "Madrid"
+    ],
+    "answer": "Ottawa"
+  },
+  {
+    "question": "Which language is primarily used in Flutter?",
+    "options": [
+      "PHP",
+      "Dart",
+      "JavaScript",
+      "Ruby"
+    ],
+    "answer": "Dart"
+  },
+  {
+    "question": "Which language is primarily used in Flutter?",
+    "options": [
+      "Ruby",
+      "Python",
+      "Dart"
+    ],
+    "answer": "Dart"
+  },
+  {
+    "question": "Which language is primarily used in Django?",
+    "options": [
+      "Python",
+      "JavaScript",
+      "Java",
+      "Dart"
+    ],
+    "answer": "Python"
+  },
+  {
+    "question": "What is 41 + 45?",
+    "options": [
+      "84",
+      "86",
+      "89",
+      "88"
+    ],
+    "answer": "86"
+  },
+  {
+    "question": "What is 21 + 28?",
+    "options": [
+      "49",
+      "51",
+      "52",
+      "47"
+    ],
+    "answer": "49"
+  },
+  {
+    "question": "Which language is primarily used in Django?",
+    "options": [
+      "JavaScript",
+      "Python",
+      "Java",
+      "PHP"
+    ],
+    "answer": "Python"
+  },
+  {
+    "question": "Which language is primarily used in Laravel?",
+    "options": [
+      "JavaScript",
+      "Ruby",
+      "PHP"
+    ],
+    "answer": "PHP"
+  },
+  {
+    "question": "What is the capital of Italy?",
+    "options": [
+      "Canberra",
+      "Rome",
+      "New Delhi",
+      "Paris"
+    ],
+    "answer": "Rome"
+  },
+  {
+    "question": "Which language is primarily used in Rails?",
+    "options": [
+      "JavaScript",
+      "PHP",
+      "Ruby",
+      "Java"
+    ],
+    "answer": "Ruby"
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "New Delhi",
+      "Berlin",
+      "Paris"
+    ],
+    "answer": "Paris"
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "Madrid",
+      "New Delhi",
+      "Beijing",
+      "Paris"
+    ],
+    "answer": "Paris"
+  },
+  {
+    "question": "What is 3 + 38?",
+    "options": [
+      "41",
+      "39",
+      "43",
+      "44"
+    ],
+    "answer": "41"
+  },
+  {
+    "question": "What is 50 + 17?",
+    "options": [
+      "65",
+      "69",
+      "70",
+      "67"
+    ],
+    "answer": "67"
+  },
+  {
+    "question": "What is 20 + 20?",
+    "options": [
+      "38",
+      "43",
+      "42",
+      "40"
+    ],
+    "answer": "40"
+  },
+  {
+    "question": "What is the capital of Germany?",
+    "options": [
+      "Beijing",
+      "Canberra",
+      "Berlin",
+      "Madrid"
+    ],
+    "answer": "Berlin"
+  },
+  {
+    "question": "Which language is primarily used in Django?",
+    "options": [
+      "Java",
+      "Ruby",
+      "Python",
+      "PHP"
+    ],
+    "answer": "Python"
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "options": [
+      "Beijing",
+      "Tokyo",
+      "Madrid"
+    ],
+    "answer": "Tokyo"
+  },
+  {
+    "question": "What is the capital of Spain?",
+    "options": [
+      "Madrid",
+      "New Delhi",
+      "Berlin",
+      "Rome"
+    ],
+    "answer": "Madrid"
+  },
+  {
+    "question": "Which language is primarily used in React?",
+    "options": [
+      "Dart",
+      "Python",
+      "JavaScript",
+      "PHP"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "question": "Which language is primarily used in Spring?",
+    "options": [
+      "Ruby",
+      "PHP",
+      "Python",
+      "Java"
+    ],
+    "answer": "Java"
+  },
+  {
+    "question": "What is 32 + 24?",
+    "options": [
+      "56",
+      "58",
+      "59",
+      "54"
+    ],
+    "answer": "56"
+  },
+  {
+    "question": "Which language is primarily used in Spring?",
+    "options": [
+      "Python",
+      "PHP",
+      "Java"
+    ],
+    "answer": "Java"
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "options": [
+      "Tokyo",
+      "New Delhi",
+      "Canberra",
+      "Ottawa"
+    ],
+    "answer": "Tokyo"
+  },
+  {
+    "question": "Which language is primarily used in Rails?",
+    "options": [
+      "Python",
+      "Ruby",
+      "Dart",
+      "Java"
+    ],
+    "answer": "Ruby"
+  },
+  {
+    "question": "What is 42 + 24?",
+    "options": [
+      "68",
+      "69",
+      "66",
+      "64"
+    ],
+    "answer": "66"
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "Paris",
+      "Berlin",
+      "New Delhi",
+      "Rome"
+    ],
+    "answer": "Paris"
+  },
+  {
+    "question": "What is the capital of Canada?",
+    "options": [
+      "Madrid",
+      "Berlin",
+      "Bras\u00edlia",
+      "Ottawa"
+    ],
+    "answer": "Ottawa"
+  },
+  {
+    "question": "What is 26 + 6?",
+    "options": [
+      "32",
+      "34",
+      "35",
+      "30"
+    ],
+    "answer": "32"
+  },
+  {
+    "question": "Which language is primarily used in Rails?",
+    "options": [
+      "Python",
+      "PHP",
+      "Ruby",
+      "Java"
+    ],
+    "answer": "Ruby"
+  },
+  {
+    "question": "What is 39 + 32?",
+    "options": [
+      "74",
+      "69",
+      "71",
+      "73"
+    ],
+    "answer": "71"
+  },
+  {
+    "question": "What is the capital of Brazil?",
+    "options": [
+      "Paris",
+      "Tokyo",
+      "Berlin",
+      "Bras\u00edlia"
+    ],
+    "answer": "Bras\u00edlia"
+  },
+  {
+    "question": "Which language is primarily used in React?",
+    "options": [
+      "JavaScript",
+      "PHP",
+      "Ruby",
+      "Python"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "question": "What is 37 + 23?",
+    "options": [
+      "63",
+      "60",
+      "58",
+      "62"
+    ],
+    "answer": "60"
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "Rome",
+      "Paris",
+      "Ottawa"
+    ],
+    "answer": "Paris"
+  },
+  {
+    "question": "Which language is primarily used in Laravel?",
+    "options": [
+      "PHP",
+      "Python",
+      "Ruby",
+      "Dart"
+    ],
+    "answer": "PHP"
+  },
+  {
+    "question": "What is 33 + 2?",
+    "options": [
+      "33",
+      "37",
+      "35",
+      "38"
+    ],
+    "answer": "35"
+  },
+  {
+    "question": "What is the capital of India?",
+    "options": [
+      "Tokyo",
+      "New Delhi",
+      "Beijing",
+      "Berlin"
+    ],
+    "answer": "New Delhi"
+  },
+  {
+    "question": "Which language is primarily used in Flutter?",
+    "options": [
+      "Dart",
+      "PHP",
+      "Python",
+      "Ruby"
+    ],
+    "answer": "Dart"
+  },
+  {
+    "question": "Which language is primarily used in React?",
+    "options": [
+      "Python",
+      "Java",
+      "JavaScript"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "question": "What is the capital of Italy?",
+    "options": [
+      "Rome",
+      "Canberra",
+      "Beijing",
+      "Ottawa"
+    ],
+    "answer": "Rome"
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "Paris",
+      "Ottawa",
+      "Canberra"
+    ],
+    "answer": "Paris"
+  },
+  {
+    "question": "What is the capital of Spain?",
+    "options": [
+      "Bras\u00edlia",
+      "Madrid",
+      "New Delhi"
+    ],
+    "answer": "Madrid"
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "New Delhi",
+      "Paris",
+      "Bras\u00edlia"
+    ],
+    "answer": "Paris"
+  },
+  {
+    "question": "Which language is primarily used in Spring?",
+    "options": [
+      "Dart",
+      "Java",
+      "Ruby"
+    ],
+    "answer": "Java"
+  },
+  {
+    "question": "Which language is primarily used in Laravel?",
+    "options": [
+      "PHP",
+      "Java",
+      "JavaScript",
+      "Python"
+    ],
+    "answer": "PHP"
+  },
+  {
+    "question": "What is 6 + 15?",
+    "options": [
+      "19",
+      "21",
+      "24",
+      "23"
+    ],
+    "answer": "21"
+  },
+  {
+    "question": "What is 50 + 15?",
+    "options": [
+      "65",
+      "63",
+      "67",
+      "68"
+    ],
+    "answer": "65"
+  },
+  {
+    "question": "Which language is primarily used in React?",
+    "options": [
+      "PHP",
+      "JavaScript",
+      "Dart",
+      "Python"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "question": "Which language is primarily used in Laravel?",
+    "options": [
+      "PHP",
+      "Java",
+      "Python"
+    ],
+    "answer": "PHP"
+  },
+  {
+    "question": "Which language is primarily used in Flutter?",
+    "options": [
+      "Dart",
+      "PHP",
+      "Ruby"
+    ],
+    "answer": "Dart"
+  },
+  {
+    "question": "What is the capital of India?",
+    "options": [
+      "New Delhi",
+      "Tokyo",
+      "Ottawa",
+      "Beijing"
+    ],
+    "answer": "New Delhi"
+  },
+  {
+    "question": "What is the capital of China?",
+    "options": [
+      "Canberra",
+      "Berlin",
+      "Beijing",
+      "Bras\u00edlia"
+    ],
+    "answer": "Beijing"
+  },
+  {
+    "question": "Which language is primarily used in Django?",
+    "options": [
+      "JavaScript",
+      "Python",
+      "Ruby"
+    ],
+    "answer": "Python"
+  },
+  {
+    "question": "What is 19 + 20?",
+    "options": [
+      "37",
+      "42",
+      "39",
+      "41"
+    ],
+    "answer": "39"
+  },
+  {
+    "question": "What is the capital of Canada?",
+    "options": [
+      "Canberra",
+      "Rome",
+      "New Delhi",
+      "Ottawa"
+    ],
+    "answer": "Ottawa"
+  },
+  {
+    "question": "What is the capital of India?",
+    "options": [
+      "Rome",
+      "New Delhi",
+      "Madrid"
+    ],
+    "answer": "New Delhi"
+  },
+  {
+    "question": "Which language is primarily used in Laravel?",
+    "options": [
+      "JavaScript",
+      "Dart",
+      "Python",
+      "PHP"
+    ],
+    "answer": "PHP"
+  },
+  {
+    "question": "What is the capital of India?",
+    "options": [
+      "Tokyo",
+      "New Delhi",
+      "Canberra",
+      "Beijing"
+    ],
+    "answer": "New Delhi"
+  },
+  {
+    "question": "What is 48 + 1?",
+    "options": [
+      "49",
+      "51",
+      "47",
+      "52"
+    ],
+    "answer": "49"
+  },
+  {
+    "question": "What is the capital of Germany?",
+    "options": [
+      "Tokyo",
+      "Ottawa",
+      "New Delhi",
+      "Berlin"
+    ],
+    "answer": "Berlin"
+  },
+  {
+    "question": "Which language is primarily used in Django?",
+    "options": [
+      "Dart",
+      "Ruby",
+      "Python"
+    ],
+    "answer": "Python"
+  },
+  {
+    "question": "Which language is primarily used in Django?",
+    "options": [
+      "Java",
+      "Dart",
+      "Python",
+      "PHP"
+    ],
+    "answer": "Python"
+  },
+  {
+    "question": "What is the capital of China?",
+    "options": [
+      "Bras\u00edlia",
+      "New Delhi",
+      "Berlin",
+      "Beijing"
+    ],
+    "answer": "Beijing"
+  },
+  {
+    "question": "What is the capital of Canada?",
+    "options": [
+      "Beijing",
+      "Ottawa",
+      "Canberra",
+      "Tokyo"
+    ],
+    "answer": "Ottawa"
+  },
+  {
+    "question": "Which language is primarily used in Laravel?",
+    "options": [
+      "PHP",
+      "Dart",
+      "Python",
+      "Ruby"
+    ],
+    "answer": "PHP"
+  },
+  {
+    "question": "What is 46 + 15?",
+    "options": [
+      "59",
+      "61",
+      "63",
+      "64"
+    ],
+    "answer": "61"
+  },
+  {
+    "question": "Which language is primarily used in Rails?",
+    "options": [
+      "Python",
+      "Ruby",
+      "Java"
+    ],
+    "answer": "Ruby"
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "options": [
+      "Tokyo",
+      "Beijing",
+      "Madrid",
+      "Canberra"
+    ],
+    "answer": "Tokyo"
+  },
+  {
+    "question": "What is 18 + 15?",
+    "options": [
+      "31",
+      "33",
+      "36",
+      "35"
+    ],
+    "answer": "33"
+  },
+  {
+    "question": "What is the capital of Italy?",
+    "options": [
+      "Beijing",
+      "Ottawa",
+      "Paris",
+      "Rome"
+    ],
+    "answer": "Rome"
+  },
+  {
+    "question": "Which language is primarily used in Flutter?",
+    "options": [
+      "JavaScript",
+      "Java",
+      "Dart",
+      "Python"
+    ],
+    "answer": "Dart"
+  },
+  {
+    "question": "Which language is primarily used in Rails?",
+    "options": [
+      "Java",
+      "JavaScript",
+      "Ruby",
+      "Python"
+    ],
+    "answer": "Ruby"
+  },
+  {
+    "question": "What is 40 + 11?",
+    "options": [
+      "51",
+      "49",
+      "53",
+      "54"
+    ],
+    "answer": "51"
+  },
+  {
+    "question": "What is the capital of Spain?",
+    "options": [
+      "Ottawa",
+      "Tokyo",
+      "Madrid",
+      "Beijing"
+    ],
+    "answer": "Madrid"
+  },
+  {
+    "question": "Which language is primarily used in Django?",
+    "options": [
+      "Dart",
+      "JavaScript",
+      "Ruby",
+      "Python"
+    ],
+    "answer": "Python"
+  },
+  {
+    "question": "Which language is primarily used in Django?",
+    "options": [
+      "Java",
+      "Python",
+      "PHP"
+    ],
+    "answer": "Python"
+  },
+  {
+    "question": "Which language is primarily used in Spring?",
+    "options": [
+      "Java",
+      "Ruby",
+      "Dart"
+    ],
+    "answer": "Java"
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "Ottawa",
+      "Paris",
+      "Tokyo",
+      "Bras\u00edlia"
+    ],
+    "answer": "Paris"
+  },
+  {
+    "question": "What is 24 + 3?",
+    "options": [
+      "30",
+      "25",
+      "27",
+      "29"
+    ],
+    "answer": "27"
+  },
+  {
+    "question": "Which language is primarily used in Django?",
+    "options": [
+      "JavaScript",
+      "PHP",
+      "Ruby",
+      "Python"
+    ],
+    "answer": "Python"
+  },
+  {
+    "question": "What is 3 + 31?",
+    "options": [
+      "37",
+      "36",
+      "32",
+      "34"
+    ],
+    "answer": "34"
+  },
+  {
+    "question": "Which language is primarily used in Django?",
+    "options": [
+      "Python",
+      "PHP",
+      "Java"
+    ],
+    "answer": "Python"
+  },
+  {
+    "question": "Which language is primarily used in Spring?",
+    "options": [
+      "PHP",
+      "Dart",
+      "Java",
+      "Ruby"
+    ],
+    "answer": "Java"
+  },
+  {
+    "question": "Which language is primarily used in React?",
+    "options": [
+      "PHP",
+      "Python",
+      "Ruby",
+      "JavaScript"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "question": "What is 35 + 18?",
+    "options": [
+      "51",
+      "56",
+      "53",
+      "55"
+    ],
+    "answer": "53"
+  },
+  {
+    "question": "What is 12 + 34?",
+    "options": [
+      "46",
+      "48",
+      "49",
+      "44"
+    ],
+    "answer": "46"
+  },
+  {
+    "question": "What is the capital of Spain?",
+    "options": [
+      "Bras\u00edlia",
+      "Madrid",
+      "Rome",
+      "Ottawa"
+    ],
+    "answer": "Madrid"
+  },
+  {
+    "question": "Which language is primarily used in Laravel?",
+    "options": [
+      "Java",
+      "Dart",
+      "PHP",
+      "Ruby"
+    ],
+    "answer": "PHP"
+  },
+  {
+    "question": "What is the capital of Brazil?",
+    "options": [
+      "Beijing",
+      "Bras\u00edlia",
+      "Madrid",
+      "Berlin"
+    ],
+    "answer": "Bras\u00edlia"
+  },
+  {
+    "question": "What is 19 + 21?",
+    "options": [
+      "43",
+      "38",
+      "40",
+      "42"
+    ],
+    "answer": "40"
+  },
+  {
+    "question": "What is 7 + 16?",
+    "options": [
+      "21",
+      "25",
+      "26",
+      "23"
+    ],
+    "answer": "23"
+  },
+  {
+    "question": "What is 40 + 38?",
+    "options": [
+      "76",
+      "78",
+      "81",
+      "80"
+    ],
+    "answer": "78"
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "options": [
+      "Madrid",
+      "Ottawa",
+      "Canberra",
+      "Berlin"
+    ],
+    "answer": "Canberra"
+  },
+  {
+    "question": "What is 29 + 35?",
+    "options": [
+      "67",
+      "66",
+      "62",
+      "64"
+    ],
+    "answer": "64"
+  },
+  {
+    "question": "Which language is primarily used in Rails?",
+    "options": [
+      "Ruby",
+      "Python",
+      "Java",
+      "PHP"
+    ],
+    "answer": "Ruby"
+  },
+  {
+    "question": "What is 19 + 4?",
+    "options": [
+      "21",
+      "25",
+      "23",
+      "26"
+    ],
+    "answer": "23"
+  },
+  {
+    "question": "What is the capital of Italy?",
+    "options": [
+      "New Delhi",
+      "Rome",
+      "Madrid",
+      "Tokyo"
+    ],
+    "answer": "Rome"
+  },
+  {
+    "question": "What is the capital of Canada?",
+    "options": [
+      "Paris",
+      "Ottawa",
+      "Berlin",
+      "Bras\u00edlia"
+    ],
+    "answer": "Ottawa"
+  },
+  {
+    "question": "Which language is primarily used in Rails?",
+    "options": [
+      "Ruby",
+      "Java",
+      "Python",
+      "JavaScript"
+    ],
+    "answer": "Ruby"
+  },
+  {
+    "question": "What is the capital of China?",
+    "options": [
+      "Bras\u00edlia",
+      "Ottawa",
+      "Beijing",
+      "Madrid"
+    ],
+    "answer": "Beijing"
+  },
+  {
+    "question": "Which language is primarily used in Spring?",
+    "options": [
+      "JavaScript",
+      "PHP",
+      "Python",
+      "Java"
+    ],
+    "answer": "Java"
+  },
+  {
+    "question": "What is the capital of Spain?",
+    "options": [
+      "Paris",
+      "Madrid",
+      "Bras\u00edlia",
+      "Tokyo"
+    ],
+    "answer": "Madrid"
+  },
+  {
+    "question": "Which language is primarily used in React?",
+    "options": [
+      "Ruby",
+      "Dart",
+      "JavaScript",
+      "Java"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "question": "Which language is primarily used in Laravel?",
+    "options": [
+      "PHP",
+      "Dart",
+      "Ruby",
+      "Java"
+    ],
+    "answer": "PHP"
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "options": [
+      "Tokyo",
+      "Canberra",
+      "Ottawa",
+      "New Delhi"
+    ],
+    "answer": "Tokyo"
+  },
+  {
+    "question": "What is 50 + 46?",
+    "options": [
+      "96",
+      "98",
+      "99",
+      "94"
+    ],
+    "answer": "96"
+  },
+  {
+    "question": "What is the capital of Brazil?",
+    "options": [
+      "Rome",
+      "Bras\u00edlia",
+      "Paris",
+      "Tokyo"
+    ],
+    "answer": "Bras\u00edlia"
+  },
+  {
+    "question": "Which language is primarily used in Laravel?",
+    "options": [
+      "Dart",
+      "PHP",
+      "Java"
+    ],
+    "answer": "PHP"
+  },
+  {
+    "question": "What is 2 + 20?",
+    "options": [
+      "24",
+      "25",
+      "22",
+      "20"
+    ],
+    "answer": "22"
+  },
+  {
+    "question": "What is 4 + 14?",
+    "options": [
+      "16",
+      "20",
+      "18",
+      "21"
+    ],
+    "answer": "18"
+  },
+  {
+    "question": "What is the capital of China?",
+    "options": [
+      "Berlin",
+      "Beijing",
+      "Tokyo",
+      "Madrid"
+    ],
+    "answer": "Beijing"
+  },
+  {
+    "question": "What is the capital of Canada?",
+    "options": [
+      "Ottawa",
+      "Paris",
+      "Canberra",
+      "New Delhi"
+    ],
+    "answer": "Ottawa"
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "options": [
+      "Ottawa",
+      "Canberra",
+      "Berlin"
+    ],
+    "answer": "Canberra"
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "Ottawa",
+      "Paris",
+      "Rome",
+      "Berlin"
+    ],
+    "answer": "Paris"
+  },
+  {
+    "question": "What is 25 + 21?",
+    "options": [
+      "44",
+      "48",
+      "46",
+      "49"
+    ],
+    "answer": "46"
+  },
+  {
+    "question": "What is 47 + 50?",
+    "options": [
+      "95",
+      "97",
+      "100",
+      "99"
+    ],
+    "answer": "97"
+  },
+  {
+    "question": "Which language is primarily used in Django?",
+    "options": [
+      "JavaScript",
+      "Python",
+      "Dart",
+      "Java"
+    ],
+    "answer": "Python"
+  },
+  {
+    "question": "What is the capital of Canada?",
+    "options": [
+      "Ottawa",
+      "Madrid",
+      "Rome",
+      "Tokyo"
+    ],
+    "answer": "Ottawa"
+  },
+  {
+    "question": "Which language is primarily used in React?",
+    "options": [
+      "Ruby",
+      "PHP",
+      "JavaScript"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "question": "What is 39 + 18?",
+    "options": [
+      "57",
+      "55",
+      "60",
+      "59"
+    ],
+    "answer": "57"
+  },
+  {
+    "question": "What is the capital of Germany?",
+    "options": [
+      "Rome",
+      "Berlin",
+      "Canberra",
+      "Paris"
+    ],
+    "answer": "Berlin"
+  },
+  {
+    "question": "What is 15 + 35?",
+    "options": [
+      "50",
+      "52",
+      "48",
+      "53"
+    ],
+    "answer": "50"
+  },
+  {
+    "question": "What is 27 + 49?",
+    "options": [
+      "74",
+      "79",
+      "76",
+      "78"
+    ],
+    "answer": "76"
+  },
+  {
+    "question": "What is 3 + 27?",
+    "options": [
+      "32",
+      "28",
+      "30",
+      "33"
+    ],
+    "answer": "30"
+  },
+  {
+    "question": "What is 26 + 29?",
+    "options": [
+      "57",
+      "53",
+      "55",
+      "58"
+    ],
+    "answer": "55"
+  },
+  {
+    "question": "What is the capital of India?",
+    "options": [
+      "Berlin",
+      "Rome",
+      "Canberra",
+      "New Delhi"
+    ],
+    "answer": "New Delhi"
+  },
+  {
+    "question": "Which language is primarily used in Spring?",
+    "options": [
+      "Python",
+      "Java",
+      "Ruby",
+      "PHP"
+    ],
+    "answer": "Java"
+  },
+  {
+    "question": "What is 29 + 19?",
+    "options": [
+      "48",
+      "51",
+      "50",
+      "46"
+    ],
+    "answer": "48"
+  },
+  {
+    "question": "What is 36 + 6?",
+    "options": [
+      "42",
+      "40",
+      "45",
+      "44"
+    ],
+    "answer": "42"
+  },
+  {
+    "question": "Which language is primarily used in Django?",
+    "options": [
+      "Python",
+      "JavaScript",
+      "Java"
+    ],
+    "answer": "Python"
+  },
+  {
+    "question": "What is the capital of Italy?",
+    "options": [
+      "Berlin",
+      "Rome",
+      "Paris"
+    ],
+    "answer": "Rome"
+  },
+  {
+    "question": "What is 11 + 6?",
+    "options": [
+      "15",
+      "19",
+      "20",
+      "17"
+    ],
+    "answer": "17"
+  },
+  {
+    "question": "What is 4 + 2?",
+    "options": [
+      "9",
+      "6",
+      "8",
+      "4"
+    ],
+    "answer": "6"
+  },
+  {
+    "question": "What is 3 + 12?",
+    "options": [
+      "18",
+      "17",
+      "13",
+      "15"
+    ],
+    "answer": "15"
+  },
+  {
+    "question": "What is the capital of Spain?",
+    "options": [
+      "Madrid",
+      "Rome",
+      "Canberra"
+    ],
+    "answer": "Madrid"
+  },
+  {
+    "question": "What is the capital of Brazil?",
+    "options": [
+      "Bras\u00edlia",
+      "Madrid",
+      "Paris",
+      "Berlin"
+    ],
+    "answer": "Bras\u00edlia"
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "options": [
+      "Canberra",
+      "Bras\u00edlia",
+      "Paris",
+      "Berlin"
+    ],
+    "answer": "Canberra"
+  },
+  {
+    "question": "Which language is primarily used in React?",
+    "options": [
+      "JavaScript",
+      "Python",
+      "Java",
+      "Dart"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "options": [
+      "Madrid",
+      "Canberra",
+      "Tokyo",
+      "Berlin"
+    ],
+    "answer": "Canberra"
+  },
+  {
+    "question": "Which language is primarily used in Django?",
+    "options": [
+      "Python",
+      "PHP",
+      "JavaScript",
+      "Dart"
+    ],
+    "answer": "Python"
+  },
+  {
+    "question": "What is the capital of Canada?",
+    "options": [
+      "Beijing",
+      "Ottawa",
+      "New Delhi",
+      "Canberra"
+    ],
+    "answer": "Ottawa"
+  },
+  {
+    "question": "What is the capital of Germany?",
+    "options": [
+      "Berlin",
+      "Beijing",
+      "Ottawa"
+    ],
+    "answer": "Berlin"
+  },
+  {
+    "question": "What is the capital of Italy?",
+    "options": [
+      "Madrid",
+      "Paris",
+      "Rome",
+      "Ottawa"
+    ],
+    "answer": "Rome"
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "options": [
+      "Canberra",
+      "Madrid",
+      "Berlin"
+    ],
+    "answer": "Canberra"
+  },
+  {
+    "question": "What is 35 + 37?",
+    "options": [
+      "74",
+      "70",
+      "75",
+      "72"
+    ],
+    "answer": "72"
+  },
+  {
+    "question": "What is the capital of Canada?",
+    "options": [
+      "Ottawa",
+      "Rome",
+      "New Delhi",
+      "Berlin"
+    ],
+    "answer": "Ottawa"
+  },
+  {
+    "question": "What is 7 + 16?",
+    "options": [
+      "26",
+      "23",
+      "25",
+      "21"
+    ],
+    "answer": "23"
+  },
+  {
+    "question": "What is 30 + 32?",
+    "options": [
+      "65",
+      "60",
+      "64",
+      "62"
+    ],
+    "answer": "62"
+  },
+  {
+    "question": "Which language is primarily used in Rails?",
+    "options": [
+      "Java",
+      "Python",
+      "Ruby"
+    ],
+    "answer": "Ruby"
+  },
+  {
+    "question": "What is 33 + 1?",
+    "options": [
+      "37",
+      "32",
+      "36",
+      "34"
+    ],
+    "answer": "34"
+  },
+  {
+    "question": "Which language is primarily used in React?",
+    "options": [
+      "Ruby",
+      "Dart",
+      "JavaScript"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "question": "What is the capital of India?",
+    "options": [
+      "New Delhi",
+      "Rome",
+      "Berlin",
+      "Madrid"
+    ],
+    "answer": "New Delhi"
+  },
+  {
+    "question": "Which language is primarily used in Flutter?",
+    "options": [
+      "Dart",
+      "PHP",
+      "Python",
+      "JavaScript"
+    ],
+    "answer": "Dart"
+  },
+  {
+    "question": "Which language is primarily used in Laravel?",
+    "options": [
+      "Ruby",
+      "Java",
+      "PHP",
+      "Python"
+    ],
+    "answer": "PHP"
+  },
+  {
+    "question": "What is the capital of Germany?",
+    "options": [
+      "Tokyo",
+      "Bras\u00edlia",
+      "Berlin"
+    ],
+    "answer": "Berlin"
+  },
+  {
+    "question": "What is the capital of China?",
+    "options": [
+      "Beijing",
+      "Paris",
+      "Ottawa"
+    ],
+    "answer": "Beijing"
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "options": [
+      "Beijing",
+      "Canberra",
+      "Paris",
+      "Bras\u00edlia"
+    ],
+    "answer": "Canberra"
+  },
+  {
+    "question": "Which language is primarily used in Rails?",
+    "options": [
+      "Ruby",
+      "Python",
+      "Java",
+      "PHP"
+    ],
+    "answer": "Ruby"
+  },
+  {
+    "question": "Which language is primarily used in Django?",
+    "options": [
+      "JavaScript",
+      "Java",
+      "Python",
+      "Ruby"
+    ],
+    "answer": "Python"
+  },
+  {
+    "question": "What is 2 + 44?",
+    "options": [
+      "46",
+      "44",
+      "49",
+      "48"
+    ],
+    "answer": "46"
+  },
+  {
+    "question": "Which language is primarily used in Laravel?",
+    "options": [
+      "Dart",
+      "PHP",
+      "JavaScript",
+      "Ruby"
+    ],
+    "answer": "PHP"
+  },
+  {
+    "question": "Which language is primarily used in Spring?",
+    "options": [
+      "Dart",
+      "JavaScript",
+      "Java"
+    ],
+    "answer": "Java"
+  },
+  {
+    "question": "What is 42 + 40?",
+    "options": [
+      "84",
+      "82",
+      "85",
+      "80"
+    ],
+    "answer": "82"
+  },
+  {
+    "question": "What is the capital of Spain?",
+    "options": [
+      "Madrid",
+      "Ottawa",
+      "New Delhi",
+      "Rome"
+    ],
+    "answer": "Madrid"
+  },
+  {
+    "question": "What is the capital of Italy?",
+    "options": [
+      "Paris",
+      "Bras\u00edlia",
+      "Rome",
+      "Ottawa"
+    ],
+    "answer": "Rome"
+  },
+  {
+    "question": "What is 16 + 30?",
+    "options": [
+      "48",
+      "44",
+      "46",
+      "49"
+    ],
+    "answer": "46"
+  },
+  {
+    "question": "What is 21 + 22?",
+    "options": [
+      "41",
+      "45",
+      "43",
+      "46"
+    ],
+    "answer": "43"
+  },
+  {
+    "question": "What is 14 + 50?",
+    "options": [
+      "67",
+      "64",
+      "66",
+      "62"
+    ],
+    "answer": "64"
+  },
+  {
+    "question": "What is 21 + 31?",
+    "options": [
+      "52",
+      "50",
+      "55",
+      "54"
+    ],
+    "answer": "52"
+  },
+  {
+    "question": "Which language is primarily used in Laravel?",
+    "options": [
+      "Ruby",
+      "Python",
+      "PHP"
+    ],
+    "answer": "PHP"
+  },
+  {
+    "question": "What is 40 + 39?",
+    "options": [
+      "81",
+      "77",
+      "82",
+      "79"
+    ],
+    "answer": "79"
+  },
+  {
+    "question": "What is 35 + 11?",
+    "options": [
+      "46",
+      "49",
+      "44",
+      "48"
+    ],
+    "answer": "46"
+  },
+  {
+    "question": "What is 33 + 43?",
+    "options": [
+      "78",
+      "79",
+      "74",
+      "76"
+    ],
+    "answer": "76"
+  },
+  {
+    "question": "Which language is primarily used in Spring?",
+    "options": [
+      "Java",
+      "Dart",
+      "Python",
+      "PHP"
+    ],
+    "answer": "Java"
+  },
+  {
+    "question": "Which language is primarily used in Spring?",
+    "options": [
+      "Ruby",
+      "Java",
+      "Dart",
+      "PHP"
+    ],
+    "answer": "Java"
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "Berlin",
+      "Canberra",
+      "Paris",
+      "Tokyo"
+    ],
+    "answer": "Paris"
+  },
+  {
+    "question": "What is 15 + 30?",
+    "options": [
+      "43",
+      "47",
+      "48",
+      "45"
+    ],
+    "answer": "45"
+  },
+  {
+    "question": "Which language is primarily used in Spring?",
+    "options": [
+      "Java",
+      "PHP",
+      "JavaScript"
+    ],
+    "answer": "Java"
+  },
+  {
+    "question": "Which language is primarily used in Spring?",
+    "options": [
+      "Java",
+      "Ruby",
+      "Dart"
+    ],
+    "answer": "Java"
+  },
+  {
+    "question": "Which language is primarily used in Laravel?",
+    "options": [
+      "JavaScript",
+      "Java",
+      "PHP",
+      "Python"
+    ],
+    "answer": "PHP"
+  },
+  {
+    "question": "What is 1 + 48?",
+    "options": [
+      "52",
+      "47",
+      "51",
+      "49"
+    ],
+    "answer": "49"
+  },
+  {
+    "question": "What is the capital of Brazil?",
+    "options": [
+      "Bras\u00edlia",
+      "New Delhi",
+      "Ottawa",
+      "Canberra"
+    ],
+    "answer": "Bras\u00edlia"
+  },
+  {
+    "question": "Which language is primarily used in Laravel?",
+    "options": [
+      "JavaScript",
+      "PHP",
+      "Ruby",
+      "Dart"
+    ],
+    "answer": "PHP"
+  },
+  {
+    "question": "Which language is primarily used in Rails?",
+    "options": [
+      "Ruby",
+      "Python",
+      "JavaScript"
+    ],
+    "answer": "Ruby"
+  },
+  {
+    "question": "What is 48 + 42?",
+    "options": [
+      "90",
+      "88",
+      "92",
+      "93"
+    ],
+    "answer": "90"
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "options": [
+      "Ottawa",
+      "Tokyo",
+      "New Delhi"
+    ],
+    "answer": "Tokyo"
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "options": [
+      "New Delhi",
+      "Bras\u00edlia",
+      "Madrid",
+      "Canberra"
+    ],
+    "answer": "Canberra"
+  },
+  {
+    "question": "What is the capital of Brazil?",
+    "options": [
+      "Canberra",
+      "Rome",
+      "Bras\u00edlia",
+      "New Delhi"
+    ],
+    "answer": "Bras\u00edlia"
+  },
+  {
+    "question": "What is 23 + 13?",
+    "options": [
+      "39",
+      "36",
+      "34",
+      "38"
+    ],
+    "answer": "36"
+  },
+  {
+    "question": "What is 6 + 45?",
+    "options": [
+      "54",
+      "49",
+      "51",
+      "53"
+    ],
+    "answer": "51"
+  },
+  {
+    "question": "What is the capital of Germany?",
+    "options": [
+      "Bras\u00edlia",
+      "New Delhi",
+      "Berlin"
+    ],
+    "answer": "Berlin"
+  },
+  {
+    "question": "What is the capital of China?",
+    "options": [
+      "Tokyo",
+      "New Delhi",
+      "Beijing"
+    ],
+    "answer": "Beijing"
+  },
+  {
+    "question": "What is 25 + 27?",
+    "options": [
+      "50",
+      "52",
+      "55",
+      "54"
+    ],
+    "answer": "52"
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "options": [
+      "New Delhi",
+      "Ottawa",
+      "Canberra",
+      "Tokyo"
+    ],
+    "answer": "Tokyo"
+  },
+  {
+    "question": "Which language is primarily used in Flutter?",
+    "options": [
+      "PHP",
+      "Java",
+      "Dart"
+    ],
+    "answer": "Dart"
+  },
+  {
+    "question": "What is the capital of China?",
+    "options": [
+      "Beijing",
+      "Rome",
+      "Bras\u00edlia"
+    ],
+    "answer": "Beijing"
+  },
+  {
+    "question": "Which language is primarily used in Spring?",
+    "options": [
+      "Ruby",
+      "Java",
+      "Dart",
+      "PHP"
+    ],
+    "answer": "Java"
+  },
+  {
+    "question": "What is the capital of Italy?",
+    "options": [
+      "Paris",
+      "Rome",
+      "Berlin"
+    ],
+    "answer": "Rome"
+  },
+  {
+    "question": "Which language is primarily used in Flutter?",
+    "options": [
+      "Java",
+      "Python",
+      "Dart"
+    ],
+    "answer": "Dart"
+  },
+  {
+    "question": "What is 20 + 32?",
+    "options": [
+      "52",
+      "50",
+      "55",
+      "54"
+    ],
+    "answer": "52"
+  },
+  {
+    "question": "Which language is primarily used in Django?",
+    "options": [
+      "Java",
+      "Python",
+      "Ruby",
+      "JavaScript"
+    ],
+    "answer": "Python"
+  },
+  {
+    "question": "What is 41 + 47?",
+    "options": [
+      "86",
+      "91",
+      "90",
+      "88"
+    ],
+    "answer": "88"
+  },
+  {
+    "question": "Which language is primarily used in Rails?",
+    "options": [
+      "Ruby",
+      "Java",
+      "Python"
+    ],
+    "answer": "Ruby"
+  },
+  {
+    "question": "What is 45 + 6?",
+    "options": [
+      "49",
+      "54",
+      "51",
+      "53"
+    ],
+    "answer": "51"
+  },
+  {
+    "question": "Which language is primarily used in React?",
+    "options": [
+      "Dart",
+      "Java",
+      "Ruby",
+      "JavaScript"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "question": "Which language is primarily used in Django?",
+    "options": [
+      "Ruby",
+      "Python",
+      "Java"
+    ],
+    "answer": "Python"
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "Madrid",
+      "Paris",
+      "Bras\u00edlia",
+      "Canberra"
+    ],
+    "answer": "Paris"
+  },
+  {
+    "question": "Which language is primarily used in Flutter?",
+    "options": [
+      "Dart",
+      "PHP",
+      "Java",
+      "JavaScript"
+    ],
+    "answer": "Dart"
+  },
+  {
+    "question": "Which language is primarily used in Rails?",
+    "options": [
+      "PHP",
+      "Ruby",
+      "Python",
+      "Java"
+    ],
+    "answer": "Ruby"
+  },
+  {
+    "question": "Which language is primarily used in Spring?",
+    "options": [
+      "Python",
+      "PHP",
+      "Java",
+      "JavaScript"
+    ],
+    "answer": "Java"
+  },
+  {
+    "question": "What is the capital of Brazil?",
+    "options": [
+      "Bras\u00edlia",
+      "Berlin",
+      "Canberra",
+      "Madrid"
+    ],
+    "answer": "Bras\u00edlia"
+  },
+  {
+    "question": "What is 9 + 30?",
+    "options": [
+      "42",
+      "37",
+      "39",
+      "41"
+    ],
+    "answer": "39"
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "Tokyo",
+      "Beijing",
+      "Paris"
+    ],
+    "answer": "Paris"
+  },
+  {
+    "question": "What is 4 + 50?",
+    "options": [
+      "57",
+      "56",
+      "54",
+      "52"
+    ],
+    "answer": "54"
+  },
+  {
+    "question": "Which language is primarily used in React?",
+    "options": [
+      "JavaScript",
+      "Dart",
+      "Python"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "question": "What is 25 + 17?",
+    "options": [
+      "45",
+      "40",
+      "42",
+      "44"
+    ],
+    "answer": "42"
+  },
+  {
+    "question": "Which language is primarily used in Flutter?",
+    "options": [
+      "PHP",
+      "JavaScript",
+      "Dart"
+    ],
+    "answer": "Dart"
+  },
+  {
+    "question": "Which language is primarily used in React?",
+    "options": [
+      "Dart",
+      "JavaScript",
+      "Ruby",
+      "Python"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "question": "What is 10 + 9?",
+    "options": [
+      "19",
+      "21",
+      "17",
+      "22"
+    ],
+    "answer": "19"
+  },
+  {
+    "question": "Which language is primarily used in Spring?",
+    "options": [
+      "Ruby",
+      "JavaScript",
+      "Java",
+      "PHP"
+    ],
+    "answer": "Java"
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "options": [
+      "Bras\u00edlia",
+      "Tokyo",
+      "Canberra",
+      "Paris"
+    ],
+    "answer": "Canberra"
+  },
+  {
+    "question": "What is the capital of Spain?",
+    "options": [
+      "Canberra",
+      "Madrid",
+      "Bras\u00edlia",
+      "Paris"
+    ],
+    "answer": "Madrid"
+  },
+  {
+    "question": "What is 33 + 27?",
+    "options": [
+      "63",
+      "58",
+      "62",
+      "60"
+    ],
+    "answer": "60"
+  },
+  {
+    "question": "Which language is primarily used in Django?",
+    "options": [
+      "Java",
+      "JavaScript",
+      "Dart",
+      "Python"
+    ],
+    "answer": "Python"
+  },
+  {
+    "question": "What is the capital of Spain?",
+    "options": [
+      "Madrid",
+      "Paris",
+      "Rome",
+      "Canberra"
+    ],
+    "answer": "Madrid"
+  },
+  {
+    "question": "Which language is primarily used in Laravel?",
+    "options": [
+      "Dart",
+      "Java",
+      "PHP"
+    ],
+    "answer": "PHP"
+  },
+  {
+    "question": "Which language is primarily used in Django?",
+    "options": [
+      "Python",
+      "Dart",
+      "JavaScript",
+      "Ruby"
+    ],
+    "answer": "Python"
+  },
+  {
+    "question": "Which language is primarily used in Django?",
+    "options": [
+      "Python",
+      "Dart",
+      "Java",
+      "PHP"
+    ],
+    "answer": "Python"
+  },
+  {
+    "question": "Which language is primarily used in Rails?",
+    "options": [
+      "JavaScript",
+      "Ruby",
+      "Java",
+      "Python"
+    ],
+    "answer": "Ruby"
+  },
+  {
+    "question": "Which language is primarily used in Spring?",
+    "options": [
+      "Java",
+      "Python",
+      "JavaScript",
+      "Ruby"
+    ],
+    "answer": "Java"
+  },
+  {
+    "question": "What is 29 + 43?",
+    "options": [
+      "74",
+      "70",
+      "72",
+      "75"
+    ],
+    "answer": "72"
+  },
+  {
+    "question": "What is 29 + 7?",
+    "options": [
+      "34",
+      "39",
+      "36",
+      "38"
+    ],
+    "answer": "36"
+  },
+  {
+    "question": "What is the capital of Canada?",
+    "options": [
+      "Ottawa",
+      "Madrid",
+      "Paris",
+      "Berlin"
+    ],
+    "answer": "Ottawa"
+  },
+  {
+    "question": "Which language is primarily used in React?",
+    "options": [
+      "Dart",
+      "Java",
+      "JavaScript"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "options": [
+      "Tokyo",
+      "Canberra",
+      "Paris",
+      "Madrid"
+    ],
+    "answer": "Canberra"
+  },
+  {
+    "question": "What is 11 + 22?",
+    "options": [
+      "36",
+      "35",
+      "33",
+      "31"
+    ],
+    "answer": "33"
+  },
+  {
+    "question": "Which language is primarily used in Flutter?",
+    "options": [
+      "Dart",
+      "Java",
+      "Ruby",
+      "JavaScript"
+    ],
+    "answer": "Dart"
+  },
+  {
+    "question": "Which language is primarily used in Spring?",
+    "options": [
+      "Ruby",
+      "Dart",
+      "Python",
+      "Java"
+    ],
+    "answer": "Java"
+  },
+  {
+    "question": "What is the capital of Canada?",
+    "options": [
+      "Ottawa",
+      "Rome",
+      "Beijing",
+      "Paris"
+    ],
+    "answer": "Ottawa"
+  },
+  {
+    "question": "What is the capital of Italy?",
+    "options": [
+      "Ottawa",
+      "Rome",
+      "New Delhi"
+    ],
+    "answer": "Rome"
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "Rome",
+      "Canberra",
+      "Bras\u00edlia",
+      "Paris"
+    ],
+    "answer": "Paris"
+  },
+  {
+    "question": "What is the capital of Brazil?",
+    "options": [
+      "Madrid",
+      "Rome",
+      "Canberra",
+      "Bras\u00edlia"
+    ],
+    "answer": "Bras\u00edlia"
+  },
+  {
+    "question": "Which language is primarily used in React?",
+    "options": [
+      "JavaScript",
+      "Python",
+      "Ruby",
+      "PHP"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "question": "Which language is primarily used in React?",
+    "options": [
+      "JavaScript",
+      "Java",
+      "PHP",
+      "Dart"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "question": "What is the capital of Brazil?",
+    "options": [
+      "New Delhi",
+      "Tokyo",
+      "Bras\u00edlia"
+    ],
+    "answer": "Bras\u00edlia"
+  },
+  {
+    "question": "What is 50 + 19?",
+    "options": [
+      "72",
+      "71",
+      "69",
+      "67"
+    ],
+    "answer": "69"
+  },
+  {
+    "question": "What is 46 + 8?",
+    "options": [
+      "52",
+      "57",
+      "54",
+      "56"
+    ],
+    "answer": "54"
+  },
+  {
+    "question": "What is the capital of Canada?",
+    "options": [
+      "New Delhi",
+      "Berlin",
+      "Ottawa",
+      "Canberra"
+    ],
+    "answer": "Ottawa"
+  },
+  {
+    "question": "What is the capital of Canada?",
+    "options": [
+      "Ottawa",
+      "Paris",
+      "Canberra",
+      "Beijing"
+    ],
+    "answer": "Ottawa"
+  },
+  {
+    "question": "What is 23 + 47?",
+    "options": [
+      "70",
+      "68",
+      "72",
+      "73"
+    ],
+    "answer": "70"
+  },
+  {
+    "question": "What is 49 + 47?",
+    "options": [
+      "98",
+      "94",
+      "96",
+      "99"
+    ],
+    "answer": "96"
+  },
+  {
+    "question": "Which language is primarily used in Flutter?",
+    "options": [
+      "PHP",
+      "JavaScript",
+      "Dart"
+    ],
+    "answer": "Dart"
+  },
+  {
+    "question": "What is the capital of Canada?",
+    "options": [
+      "Tokyo",
+      "Madrid",
+      "Ottawa",
+      "Paris"
+    ],
+    "answer": "Ottawa"
+  },
+  {
+    "question": "Which language is primarily used in Django?",
+    "options": [
+      "JavaScript",
+      "Python",
+      "Java",
+      "PHP"
+    ],
+    "answer": "Python"
+  },
+  {
+    "question": "Which language is primarily used in Spring?",
+    "options": [
+      "Dart",
+      "Python",
+      "PHP",
+      "Java"
+    ],
+    "answer": "Java"
+  },
+  {
+    "question": "What is the capital of Brazil?",
+    "options": [
+      "Bras\u00edlia",
+      "Rome",
+      "Tokyo",
+      "Berlin"
+    ],
+    "answer": "Bras\u00edlia"
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "Ottawa",
+      "Canberra",
+      "Paris",
+      "Berlin"
+    ],
+    "answer": "Paris"
+  },
+  {
+    "question": "What is the capital of Germany?",
+    "options": [
+      "Rome",
+      "Berlin",
+      "Paris"
+    ],
+    "answer": "Berlin"
+  },
+  {
+    "question": "Which language is primarily used in Spring?",
+    "options": [
+      "JavaScript",
+      "Dart",
+      "PHP",
+      "Java"
+    ],
+    "answer": "Java"
+  },
+  {
+    "question": "What is 4 + 17?",
+    "options": [
+      "21",
+      "19",
+      "23",
+      "24"
+    ],
+    "answer": "21"
+  },
+  {
+    "question": "Which language is primarily used in Laravel?",
+    "options": [
+      "JavaScript",
+      "Dart",
+      "Java",
+      "PHP"
+    ],
+    "answer": "PHP"
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "Paris",
+      "Tokyo",
+      "Madrid"
+    ],
+    "answer": "Paris"
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "Paris",
+      "Beijing",
+      "Madrid",
+      "Rome"
+    ],
+    "answer": "Paris"
+  },
+  {
+    "question": "Which language is primarily used in Flutter?",
+    "options": [
+      "PHP",
+      "JavaScript",
+      "Dart"
+    ],
+    "answer": "Dart"
+  },
+  {
+    "question": "Which language is primarily used in Laravel?",
+    "options": [
+      "JavaScript",
+      "Ruby",
+      "Dart",
+      "PHP"
+    ],
+    "answer": "PHP"
+  },
+  {
+    "question": "Which language is primarily used in Django?",
+    "options": [
+      "Ruby",
+      "Dart",
+      "Python"
+    ],
+    "answer": "Python"
+  },
+  {
+    "question": "Which language is primarily used in React?",
+    "options": [
+      "Java",
+      "JavaScript",
+      "PHP"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "question": "Which language is primarily used in Laravel?",
+    "options": [
+      "Java",
+      "Ruby",
+      "Dart",
+      "PHP"
+    ],
+    "answer": "PHP"
+  },
+  {
+    "question": "What is 27 + 14?",
+    "options": [
+      "39",
+      "43",
+      "44",
+      "41"
+    ],
+    "answer": "41"
+  },
+  {
+    "question": "Which language is primarily used in Rails?",
+    "options": [
+      "PHP",
+      "Ruby",
+      "Dart",
+      "Python"
+    ],
+    "answer": "Ruby"
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "options": [
+      "Beijing",
+      "Tokyo",
+      "Canberra",
+      "Ottawa"
+    ],
+    "answer": "Canberra"
+  },
+  {
+    "question": "Which language is primarily used in Django?",
+    "options": [
+      "Java",
+      "Ruby",
+      "JavaScript",
+      "Python"
+    ],
+    "answer": "Python"
+  },
+  {
+    "question": "What is the capital of Brazil?",
+    "options": [
+      "Tokyo",
+      "Bras\u00edlia",
+      "Beijing"
+    ],
+    "answer": "Bras\u00edlia"
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "Madrid",
+      "Canberra",
+      "Berlin",
+      "Paris"
+    ],
+    "answer": "Paris"
+  },
+  {
+    "question": "What is 12 + 44?",
+    "options": [
+      "58",
+      "54",
+      "59",
+      "56"
+    ],
+    "answer": "56"
+  },
+  {
+    "question": "What is 24 + 16?",
+    "options": [
+      "42",
+      "40",
+      "38",
+      "43"
+    ],
+    "answer": "40"
+  },
+  {
+    "question": "What is the capital of Germany?",
+    "options": [
+      "Ottawa",
+      "Bras\u00edlia",
+      "Berlin"
+    ],
+    "answer": "Berlin"
+  },
+  {
+    "question": "What is 21 + 29?",
+    "options": [
+      "48",
+      "53",
+      "52",
+      "50"
+    ],
+    "answer": "50"
+  },
+  {
+    "question": "Which language is primarily used in Laravel?",
+    "options": [
+      "Java",
+      "PHP",
+      "Python",
+      "Ruby"
+    ],
+    "answer": "PHP"
+  },
+  {
+    "question": "What is the capital of Germany?",
+    "options": [
+      "Berlin",
+      "Rome",
+      "Beijing",
+      "Paris"
+    ],
+    "answer": "Berlin"
+  },
+  {
+    "question": "What is 23 + 35?",
+    "options": [
+      "58",
+      "56",
+      "60",
+      "61"
+    ],
+    "answer": "58"
+  },
+  {
+    "question": "What is 25 + 15?",
+    "options": [
+      "38",
+      "40",
+      "43",
+      "42"
+    ],
+    "answer": "40"
+  },
+  {
+    "question": "What is the capital of Germany?",
+    "options": [
+      "Tokyo",
+      "Berlin",
+      "Beijing",
+      "New Delhi"
+    ],
+    "answer": "Berlin"
+  },
+  {
+    "question": "Which language is primarily used in Laravel?",
+    "options": [
+      "Dart",
+      "Ruby",
+      "PHP",
+      "Java"
+    ],
+    "answer": "PHP"
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "options": [
+      "New Delhi",
+      "Canberra",
+      "Berlin",
+      "Madrid"
+    ],
+    "answer": "Canberra"
+  },
+  {
+    "question": "What is the capital of Germany?",
+    "options": [
+      "Tokyo",
+      "Berlin",
+      "Madrid"
+    ],
+    "answer": "Berlin"
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "options": [
+      "Canberra",
+      "Rome",
+      "Ottawa"
+    ],
+    "answer": "Canberra"
+  },
+  {
+    "question": "What is the capital of China?",
+    "options": [
+      "Beijing",
+      "Ottawa",
+      "New Delhi",
+      "Bras\u00edlia"
+    ],
+    "answer": "Beijing"
+  },
+  {
+    "question": "Which language is primarily used in Rails?",
+    "options": [
+      "JavaScript",
+      "PHP",
+      "Ruby",
+      "Python"
+    ],
+    "answer": "Ruby"
+  },
+  {
+    "question": "What is 48 + 36?",
+    "options": [
+      "82",
+      "84",
+      "87",
+      "86"
+    ],
+    "answer": "84"
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "Beijing",
+      "Madrid",
+      "Canberra",
+      "Paris"
+    ],
+    "answer": "Paris"
+  },
+  {
+    "question": "Which language is primarily used in Laravel?",
+    "options": [
+      "Java",
+      "Ruby",
+      "PHP"
+    ],
+    "answer": "PHP"
+  },
+  {
+    "question": "What is 3 + 32?",
+    "options": [
+      "38",
+      "37",
+      "33",
+      "35"
+    ],
+    "answer": "35"
+  },
+  {
+    "question": "What is 34 + 15?",
+    "options": [
+      "47",
+      "51",
+      "52",
+      "49"
+    ],
+    "answer": "49"
+  },
+  {
+    "question": "Which language is primarily used in Rails?",
+    "options": [
+      "Ruby",
+      "Dart",
+      "Python"
+    ],
+    "answer": "Ruby"
+  },
+  {
+    "question": "What is 23 + 24?",
+    "options": [
+      "50",
+      "47",
+      "49",
+      "45"
+    ],
+    "answer": "47"
+  },
+  {
+    "question": "What is the capital of Germany?",
+    "options": [
+      "Berlin",
+      "Ottawa",
+      "Canberra",
+      "Beijing"
+    ],
+    "answer": "Berlin"
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "options": [
+      "Ottawa",
+      "Canberra",
+      "Berlin"
+    ],
+    "answer": "Canberra"
+  },
+  {
+    "question": "What is 46 + 48?",
+    "options": [
+      "97",
+      "94",
+      "92",
+      "96"
+    ],
+    "answer": "94"
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "Paris",
+      "New Delhi",
+      "Rome",
+      "Ottawa"
+    ],
+    "answer": "Paris"
+  },
+  {
+    "question": "What is 49 + 47?",
+    "options": [
+      "99",
+      "94",
+      "98",
+      "96"
+    ],
+    "answer": "96"
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "Ottawa",
+      "Paris",
+      "Bras\u00edlia"
+    ],
+    "answer": "Paris"
+  },
+  {
+    "question": "Which language is primarily used in Rails?",
+    "options": [
+      "Python",
+      "JavaScript",
+      "Java",
+      "Ruby"
+    ],
+    "answer": "Ruby"
+  },
+  {
+    "question": "What is 27 + 8?",
+    "options": [
+      "33",
+      "38",
+      "37",
+      "35"
+    ],
+    "answer": "35"
+  },
+  {
+    "question": "Which language is primarily used in React?",
+    "options": [
+      "Ruby",
+      "JavaScript",
+      "Dart",
+      "Python"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "question": "Which language is primarily used in React?",
+    "options": [
+      "Dart",
+      "JavaScript",
+      "PHP",
+      "Java"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "question": "Which language is primarily used in Spring?",
+    "options": [
+      "Java",
+      "PHP",
+      "Python"
+    ],
+    "answer": "Java"
+  },
+  {
+    "question": "What is the capital of Italy?",
+    "options": [
+      "Berlin",
+      "Tokyo",
+      "Paris",
+      "Rome"
+    ],
+    "answer": "Rome"
+  },
+  {
+    "question": "Which language is primarily used in Spring?",
+    "options": [
+      "Ruby",
+      "JavaScript",
+      "Java",
+      "Dart"
+    ],
+    "answer": "Java"
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "options": [
+      "Madrid",
+      "New Delhi",
+      "Canberra",
+      "Tokyo"
+    ],
+    "answer": "Tokyo"
+  },
+  {
+    "question": "What is 32 + 19?",
+    "options": [
+      "51",
+      "53",
+      "49",
+      "54"
+    ],
+    "answer": "51"
+  },
+  {
+    "question": "What is the capital of India?",
+    "options": [
+      "Madrid",
+      "Paris",
+      "New Delhi"
+    ],
+    "answer": "New Delhi"
+  },
+  {
+    "question": "Which language is primarily used in Laravel?",
+    "options": [
+      "Python",
+      "Ruby",
+      "PHP",
+      "Java"
+    ],
+    "answer": "PHP"
+  },
+  {
+    "question": "What is 22 + 38?",
+    "options": [
+      "60",
+      "62",
+      "58",
+      "63"
+    ],
+    "answer": "60"
+  },
+  {
+    "question": "What is 13 + 8?",
+    "options": [
+      "23",
+      "21",
+      "19",
+      "24"
+    ],
+    "answer": "21"
+  },
+  {
+    "question": "Which language is primarily used in Laravel?",
+    "options": [
+      "Java",
+      "Dart",
+      "PHP"
+    ],
+    "answer": "PHP"
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "options": [
+      "Madrid",
+      "Ottawa",
+      "Canberra",
+      "Bras\u00edlia"
+    ],
+    "answer": "Canberra"
+  },
+  {
+    "question": "What is 36 + 7?",
+    "options": [
+      "41",
+      "45",
+      "43",
+      "46"
+    ],
+    "answer": "43"
+  },
+  {
+    "question": "What is the capital of Spain?",
+    "options": [
+      "Paris",
+      "Madrid",
+      "Tokyo"
+    ],
+    "answer": "Madrid"
+  },
+  {
+    "question": "What is the capital of China?",
+    "options": [
+      "Bras\u00edlia",
+      "Beijing",
+      "Rome",
+      "Berlin"
+    ],
+    "answer": "Beijing"
+  },
+  {
+    "question": "What is 23 + 15?",
+    "options": [
+      "40",
+      "36",
+      "41",
+      "38"
+    ],
+    "answer": "38"
+  },
+  {
+    "question": "Which language is primarily used in Django?",
+    "options": [
+      "Python",
+      "Java",
+      "JavaScript",
+      "Ruby"
+    ],
+    "answer": "Python"
+  },
+  {
+    "question": "Which language is primarily used in React?",
+    "options": [
+      "JavaScript",
+      "Java",
+      "PHP"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "question": "What is 41 + 21?",
+    "options": [
+      "64",
+      "62",
+      "65",
+      "60"
+    ],
+    "answer": "62"
+  },
+  {
+    "question": "Which language is primarily used in Spring?",
+    "options": [
+      "JavaScript",
+      "Dart",
+      "Java"
+    ],
+    "answer": "Java"
+  },
+  {
+    "question": "What is 27 + 5?",
+    "options": [
+      "34",
+      "30",
+      "32",
+      "35"
+    ],
+    "answer": "32"
+  },
+  {
+    "question": "Which language is primarily used in Rails?",
+    "options": [
+      "JavaScript",
+      "Ruby",
+      "PHP",
+      "Java"
+    ],
+    "answer": "Ruby"
+  },
+  {
+    "question": "What is 31 + 21?",
+    "options": [
+      "54",
+      "50",
+      "55",
+      "52"
+    ],
+    "answer": "52"
+  },
+  {
+    "question": "What is 37 + 23?",
+    "options": [
+      "58",
+      "60",
+      "63",
+      "62"
+    ],
+    "answer": "60"
+  },
+  {
+    "question": "Which language is primarily used in Rails?",
+    "options": [
+      "JavaScript",
+      "Ruby",
+      "Dart",
+      "Python"
+    ],
+    "answer": "Ruby"
+  },
+  {
+    "question": "What is 24 + 3?",
+    "options": [
+      "25",
+      "29",
+      "27",
+      "30"
+    ],
+    "answer": "27"
+  },
+  {
+    "question": "What is the capital of Brazil?",
+    "options": [
+      "Tokyo",
+      "New Delhi",
+      "Bras\u00edlia"
+    ],
+    "answer": "Bras\u00edlia"
+  },
+  {
+    "question": "What is 44 + 14?",
+    "options": [
+      "58",
+      "61",
+      "60",
+      "56"
+    ],
+    "answer": "58"
+  },
+  {
+    "question": "Which language is primarily used in React?",
+    "options": [
+      "PHP",
+      "Java",
+      "JavaScript",
+      "Python"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "question": "What is 41 + 8?",
+    "options": [
+      "49",
+      "52",
+      "51",
+      "47"
+    ],
+    "answer": "49"
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "options": [
+      "Canberra",
+      "Bras\u00edlia",
+      "Tokyo"
+    ],
+    "answer": "Tokyo"
+  },
+  {
+    "question": "What is 2 + 10?",
+    "options": [
+      "14",
+      "15",
+      "12",
+      "10"
+    ],
+    "answer": "12"
+  },
+  {
+    "question": "What is 32 + 41?",
+    "options": [
+      "73",
+      "76",
+      "75",
+      "71"
+    ],
+    "answer": "73"
+  },
+  {
+    "question": "What is 9 + 24?",
+    "options": [
+      "36",
+      "33",
+      "31",
+      "35"
+    ],
+    "answer": "33"
+  },
+  {
+    "question": "What is 19 + 33?",
+    "options": [
+      "55",
+      "50",
+      "54",
+      "52"
+    ],
+    "answer": "52"
+  },
+  {
+    "question": "What is 39 + 43?",
+    "options": [
+      "80",
+      "85",
+      "82",
+      "84"
+    ],
+    "answer": "82"
+  },
+  {
+    "question": "What is 33 + 48?",
+    "options": [
+      "81",
+      "79",
+      "83",
+      "84"
+    ],
+    "answer": "81"
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "options": [
+      "Berlin",
+      "Canberra",
+      "Rome",
+      "New Delhi"
+    ],
+    "answer": "Canberra"
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "Berlin",
+      "New Delhi",
+      "Tokyo",
+      "Paris"
+    ],
+    "answer": "Paris"
+  },
+  {
+    "question": "What is 32 + 5?",
+    "options": [
+      "37",
+      "39",
+      "35",
+      "40"
+    ],
+    "answer": "37"
+  },
+  {
+    "question": "Which language is primarily used in Laravel?",
+    "options": [
+      "PHP",
+      "Ruby",
+      "Java"
+    ],
+    "answer": "PHP"
+  },
+  {
+    "question": "What is 18 + 23?",
+    "options": [
+      "44",
+      "43",
+      "41",
+      "39"
+    ],
+    "answer": "41"
+  },
+  {
+    "question": "What is the capital of Canada?",
+    "options": [
+      "Ottawa",
+      "Canberra",
+      "New Delhi",
+      "Beijing"
+    ],
+    "answer": "Ottawa"
+  },
+  {
+    "question": "What is the capital of Canada?",
+    "options": [
+      "Beijing",
+      "Tokyo",
+      "Ottawa"
+    ],
+    "answer": "Ottawa"
+  },
+  {
+    "question": "Which language is primarily used in Spring?",
+    "options": [
+      "Java",
+      "Dart",
+      "Python"
+    ],
+    "answer": "Java"
+  },
+  {
+    "question": "Which language is primarily used in React?",
+    "options": [
+      "Java",
+      "JavaScript",
+      "PHP",
+      "Ruby"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "question": "Which language is primarily used in React?",
+    "options": [
+      "PHP",
+      "Ruby",
+      "JavaScript"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "question": "Which language is primarily used in Laravel?",
+    "options": [
+      "Ruby",
+      "PHP",
+      "Java",
+      "Python"
+    ],
+    "answer": "PHP"
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "options": [
+      "New Delhi",
+      "Tokyo",
+      "Canberra",
+      "Paris"
+    ],
+    "answer": "Canberra"
+  },
+  {
+    "question": "What is 33 + 44?",
+    "options": [
+      "75",
+      "79",
+      "80",
+      "77"
+    ],
+    "answer": "77"
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "Madrid",
+      "Paris",
+      "Bras\u00edlia",
+      "Tokyo"
+    ],
+    "answer": "Paris"
+  },
+  {
+    "question": "Which language is primarily used in Rails?",
+    "options": [
+      "Java",
+      "JavaScript",
+      "Python",
+      "Ruby"
+    ],
+    "answer": "Ruby"
+  },
+  {
+    "question": "What is 17 + 13?",
+    "options": [
+      "28",
+      "30",
+      "33",
+      "32"
+    ],
+    "answer": "30"
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "options": [
+      "Bras\u00edlia",
+      "Ottawa",
+      "Berlin",
+      "Tokyo"
+    ],
+    "answer": "Tokyo"
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "Paris",
+      "Beijing",
+      "Bras\u00edlia",
+      "Canberra"
+    ],
+    "answer": "Paris"
+  },
+  {
+    "question": "What is 23 + 47?",
+    "options": [
+      "70",
+      "68",
+      "73",
+      "72"
+    ],
+    "answer": "70"
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "options": [
+      "New Delhi",
+      "Canberra",
+      "Paris",
+      "Tokyo"
+    ],
+    "answer": "Canberra"
+  },
+  {
+    "question": "Which language is primarily used in Django?",
+    "options": [
+      "Dart",
+      "PHP",
+      "Ruby",
+      "Python"
+    ],
+    "answer": "Python"
+  },
+  {
+    "question": "What is the capital of Germany?",
+    "options": [
+      "Rome",
+      "Berlin",
+      "Ottawa"
+    ],
+    "answer": "Berlin"
+  },
+  {
+    "question": "What is 35 + 34?",
+    "options": [
+      "72",
+      "67",
+      "71",
+      "69"
+    ],
+    "answer": "69"
+  },
+  {
+    "question": "What is the capital of India?",
+    "options": [
+      "Bras\u00edlia",
+      "New Delhi",
+      "Madrid"
+    ],
+    "answer": "New Delhi"
+  },
+  {
+    "question": "What is the capital of Brazil?",
+    "options": [
+      "Beijing",
+      "Berlin",
+      "Paris",
+      "Bras\u00edlia"
+    ],
+    "answer": "Bras\u00edlia"
+  },
+  {
+    "question": "Which language is primarily used in Flutter?",
+    "options": [
+      "Dart",
+      "Java",
+      "JavaScript",
+      "Python"
+    ],
+    "answer": "Dart"
+  },
+  {
+    "question": "What is the capital of Italy?",
+    "options": [
+      "Rome",
+      "Tokyo",
+      "Berlin"
+    ],
+    "answer": "Rome"
+  },
+  {
+    "question": "What is 43 + 33?",
+    "options": [
+      "79",
+      "76",
+      "74",
+      "78"
+    ],
+    "answer": "76"
+  },
+  {
+    "question": "What is 46 + 36?",
+    "options": [
+      "80",
+      "84",
+      "85",
+      "82"
+    ],
+    "answer": "82"
+  },
+  {
+    "question": "What is the capital of Spain?",
+    "options": [
+      "Tokyo",
+      "Bras\u00edlia",
+      "New Delhi",
+      "Madrid"
+    ],
+    "answer": "Madrid"
+  },
+  {
+    "question": "Which language is primarily used in React?",
+    "options": [
+      "Dart",
+      "JavaScript",
+      "Java"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "question": "Which language is primarily used in Rails?",
+    "options": [
+      "Java",
+      "Python",
+      "Ruby"
+    ],
+    "answer": "Ruby"
+  },
+  {
+    "question": "What is the capital of China?",
+    "options": [
+      "Berlin",
+      "Beijing",
+      "Paris"
+    ],
+    "answer": "Beijing"
+  },
+  {
+    "question": "Which language is primarily used in Django?",
+    "options": [
+      "Python",
+      "JavaScript",
+      "Java",
+      "PHP"
+    ],
+    "answer": "Python"
+  },
+  {
+    "question": "What is the capital of Italy?",
+    "options": [
+      "Beijing",
+      "Bras\u00edlia",
+      "Rome"
+    ],
+    "answer": "Rome"
+  },
+  {
+    "question": "Which language is primarily used in Django?",
+    "options": [
+      "JavaScript",
+      "Java",
+      "Python"
+    ],
+    "answer": "Python"
+  },
+  {
+    "question": "Which language is primarily used in Rails?",
+    "options": [
+      "Ruby",
+      "JavaScript",
+      "Python"
+    ],
+    "answer": "Ruby"
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "Beijing",
+      "Berlin",
+      "Paris",
+      "Madrid"
+    ],
+    "answer": "Paris"
+  },
+  {
+    "question": "Which language is primarily used in Laravel?",
+    "options": [
+      "JavaScript",
+      "PHP",
+      "Python",
+      "Ruby"
+    ],
+    "answer": "PHP"
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "options": [
+      "Tokyo",
+      "Madrid",
+      "Canberra",
+      "Rome"
+    ],
+    "answer": "Canberra"
+  },
+  {
+    "question": "What is 3 + 8?",
+    "options": [
+      "14",
+      "11",
+      "13",
+      "9"
+    ],
+    "answer": "11"
+  },
+  {
+    "question": "Which language is primarily used in Laravel?",
+    "options": [
+      "PHP",
+      "Dart",
+      "Ruby",
+      "JavaScript"
+    ],
+    "answer": "PHP"
+  },
+  {
+    "question": "What is 27 + 15?",
+    "options": [
+      "42",
+      "44",
+      "45",
+      "40"
+    ],
+    "answer": "42"
+  },
+  {
+    "question": "Which language is primarily used in Flutter?",
+    "options": [
+      "Python",
+      "Dart",
+      "JavaScript"
+    ],
+    "answer": "Dart"
+  },
+  {
+    "question": "What is the capital of Spain?",
+    "options": [
+      "Madrid",
+      "Beijing",
+      "New Delhi"
+    ],
+    "answer": "Madrid"
+  },
+  {
+    "question": "Which language is primarily used in Rails?",
+    "options": [
+      "Ruby",
+      "Python",
+      "PHP"
+    ],
+    "answer": "Ruby"
+  },
+  {
+    "question": "What is the capital of Canada?",
+    "options": [
+      "Ottawa",
+      "Beijing",
+      "New Delhi",
+      "Rome"
+    ],
+    "answer": "Ottawa"
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "options": [
+      "Tokyo",
+      "Ottawa",
+      "Canberra"
+    ],
+    "answer": "Canberra"
+  },
+  {
+    "question": "Which language is primarily used in Django?",
+    "options": [
+      "Dart",
+      "Java",
+      "Python",
+      "PHP"
+    ],
+    "answer": "Python"
+  },
+  {
+    "question": "Which language is primarily used in Django?",
+    "options": [
+      "Python",
+      "JavaScript",
+      "Ruby",
+      "Java"
+    ],
+    "answer": "Python"
+  },
+  {
+    "question": "What is 44 + 39?",
+    "options": [
+      "81",
+      "86",
+      "83",
+      "85"
+    ],
+    "answer": "83"
+  },
+  {
+    "question": "What is 20 + 47?",
+    "options": [
+      "69",
+      "65",
+      "67",
+      "70"
+    ],
+    "answer": "67"
+  },
+  {
+    "question": "What is 5 + 1?",
+    "options": [
+      "4",
+      "8",
+      "9",
+      "6"
+    ],
+    "answer": "6"
+  },
+  {
+    "question": "What is the capital of Brazil?",
+    "options": [
+      "Bras\u00edlia",
+      "Ottawa",
+      "Canberra"
+    ],
+    "answer": "Bras\u00edlia"
+  },
+  {
+    "question": "What is the capital of Spain?",
+    "options": [
+      "Rome",
+      "Madrid",
+      "Tokyo"
+    ],
+    "answer": "Madrid"
+  },
+  {
+    "question": "What is the capital of Italy?",
+    "options": [
+      "Paris",
+      "Madrid",
+      "Berlin",
+      "Rome"
+    ],
+    "answer": "Rome"
+  },
+  {
+    "question": "What is 37 + 40?",
+    "options": [
+      "75",
+      "79",
+      "77",
+      "80"
+    ],
+    "answer": "77"
+  },
+  {
+    "question": "What is the capital of Canada?",
+    "options": [
+      "Beijing",
+      "Ottawa",
+      "Paris",
+      "Berlin"
+    ],
+    "answer": "Ottawa"
+  },
+  {
+    "question": "Which language is primarily used in Flutter?",
+    "options": [
+      "JavaScript",
+      "Dart",
+      "Ruby"
+    ],
+    "answer": "Dart"
+  },
+  {
+    "question": "Which language is primarily used in Spring?",
+    "options": [
+      "Python",
+      "Java",
+      "JavaScript"
+    ],
+    "answer": "Java"
+  },
+  {
+    "question": "What is 12 + 48?",
+    "options": [
+      "63",
+      "62",
+      "58",
+      "60"
+    ],
+    "answer": "60"
+  },
+  {
+    "question": "Which language is primarily used in Spring?",
+    "options": [
+      "JavaScript",
+      "Ruby",
+      "Java",
+      "Dart"
+    ],
+    "answer": "Java"
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "options": [
+      "Madrid",
+      "Tokyo",
+      "Canberra"
+    ],
+    "answer": "Tokyo"
+  },
+  {
+    "question": "Which language is primarily used in Laravel?",
+    "options": [
+      "Python",
+      "PHP",
+      "JavaScript",
+      "Ruby"
+    ],
+    "answer": "PHP"
+  },
+  {
+    "question": "What is 38 + 9?",
+    "options": [
+      "45",
+      "47",
+      "50",
+      "49"
+    ],
+    "answer": "47"
+  },
+  {
+    "question": "Which language is primarily used in Django?",
+    "options": [
+      "JavaScript",
+      "Ruby",
+      "Python"
+    ],
+    "answer": "Python"
+  },
+  {
+    "question": "Which language is primarily used in Flutter?",
+    "options": [
+      "Ruby",
+      "Java",
+      "JavaScript",
+      "Dart"
+    ],
+    "answer": "Dart"
+  },
+  {
+    "question": "What is 19 + 11?",
+    "options": [
+      "30",
+      "28",
+      "33",
+      "32"
+    ],
+    "answer": "30"
+  },
+  {
+    "question": "What is 16 + 8?",
+    "options": [
+      "22",
+      "27",
+      "24",
+      "26"
+    ],
+    "answer": "24"
+  },
+  {
+    "question": "What is 34 + 37?",
+    "options": [
+      "73",
+      "74",
+      "71",
+      "69"
+    ],
+    "answer": "71"
+  },
+  {
+    "question": "What is the capital of Brazil?",
+    "options": [
+      "Bras\u00edlia",
+      "Canberra",
+      "Paris",
+      "Berlin"
+    ],
+    "answer": "Bras\u00edlia"
+  },
+  {
+    "question": "Which language is primarily used in React?",
+    "options": [
+      "JavaScript",
+      "Dart",
+      "PHP",
+      "Python"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "question": "Which language is primarily used in Laravel?",
+    "options": [
+      "JavaScript",
+      "PHP",
+      "Dart"
+    ],
+    "answer": "PHP"
+  },
+  {
+    "question": "What is 36 + 9?",
+    "options": [
+      "43",
+      "47",
+      "45",
+      "48"
+    ],
+    "answer": "45"
+  },
+  {
+    "question": "Which language is primarily used in Flutter?",
+    "options": [
+      "Dart",
+      "JavaScript",
+      "Ruby"
+    ],
+    "answer": "Dart"
+  },
+  {
+    "question": "Which language is primarily used in Rails?",
+    "options": [
+      "Ruby",
+      "JavaScript",
+      "Dart"
+    ],
+    "answer": "Ruby"
+  },
+  {
+    "question": "Which language is primarily used in Rails?",
+    "options": [
+      "Python",
+      "JavaScript",
+      "Dart",
+      "Ruby"
+    ],
+    "answer": "Ruby"
+  },
+  {
+    "question": "Which language is primarily used in Spring?",
+    "options": [
+      "Python",
+      "Ruby",
+      "JavaScript",
+      "Java"
+    ],
+    "answer": "Java"
+  },
+  {
+    "question": "What is the capital of Canada?",
+    "options": [
+      "Rome",
+      "Ottawa",
+      "Tokyo",
+      "Bras\u00edlia"
+    ],
+    "answer": "Ottawa"
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "options": [
+      "Canberra",
+      "Beijing",
+      "Tokyo",
+      "Bras\u00edlia"
+    ],
+    "answer": "Canberra"
+  },
+  {
+    "question": "Which language is primarily used in Flutter?",
+    "options": [
+      "Java",
+      "Ruby",
+      "Dart",
+      "Python"
+    ],
+    "answer": "Dart"
+  },
+  {
+    "question": "What is 44 + 2?",
+    "options": [
+      "49",
+      "48",
+      "44",
+      "46"
+    ],
+    "answer": "46"
+  },
+  {
+    "question": "What is 32 + 18?",
+    "options": [
+      "50",
+      "52",
+      "53",
+      "48"
+    ],
+    "answer": "50"
+  },
+  {
+    "question": "Which language is primarily used in React?",
+    "options": [
+      "Dart",
+      "Python",
+      "PHP",
+      "JavaScript"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "question": "What is 2 + 14?",
+    "options": [
+      "16",
+      "14",
+      "18",
+      "19"
+    ],
+    "answer": "16"
+  },
+  {
+    "question": "What is 37 + 44?",
+    "options": [
+      "79",
+      "81",
+      "83",
+      "84"
+    ],
+    "answer": "81"
+  },
+  {
+    "question": "Which language is primarily used in React?",
+    "options": [
+      "Ruby",
+      "JavaScript",
+      "Python"
+    ],
+    "answer": "JavaScript"
+  }
+]
